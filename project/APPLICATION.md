@@ -23,7 +23,6 @@ Elle mettra en pratique les notions suivantes :
 - Créer les composants et écrans de l’application ;
 - Implémenter la navigation entre les écrans ;
 - Implémenter la logique de gestion des produits, favoris et commandes ;
-- Tester l’application sur un émulateur ou un appareil physique.
 
 ## Apercu General de l'application:
 
